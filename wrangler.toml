@@ -6,7 +6,7 @@ pages_build_output_dir = "./dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "jira-khanom-db"
-database_id = "4e6a9513-20b5-4b30-a185-07d771227442"
+database_id = "18c72a7f-ed67-4fe7-83fd-ed5e2d5af090"
 migrations_dir = "./migrations"
 
 [vars]

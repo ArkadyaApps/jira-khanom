@@ -28,5 +28,5 @@ export default defineConfig({
     locales: ["en", "fr", "th"],
     routing: { prefixDefaultLocale: true, redirectToDefaultLocale: true },
   },
-  site: "https://jira-khanom.pages.dev",
+  site: "https://jira-khanom-801.pages.dev",
 });
